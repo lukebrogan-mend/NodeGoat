@@ -21,7 +21,9 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "pac-resolver": "1.0.0" 
+    "pac-resolver": "1.0.0",
+    "event-source-polyfill": "1.0.26",
+    "faker": "5.5.3"
   },
   "comments": {
     "//": "a9 insecure components"
