@@ -20,7 +20,7 @@ on:
 jobs:
 
   call-template:
-    uses: mend-examples/mend-toolkit/.github/workflows/mend-scan-template.yaml@scan-templates
+    uses: lukebrogan-mend/NodeGoat/.github/workflows/mend-scan-template.yaml@scan-templates
     with:
       MEND_URL: "https://saas-eu.mend.io"
       # MEND_URL: "https://saas.mend.io"
