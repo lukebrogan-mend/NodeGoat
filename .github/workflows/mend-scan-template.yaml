@@ -118,7 +118,7 @@ jobs:
             fi
           fi
       - name: Publish Mend Folder
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: "Mend CLI Logs"
           path: ~/.mend/logs
