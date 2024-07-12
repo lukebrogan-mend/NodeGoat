@@ -25,7 +25,7 @@
     "event-source-polyfill": "1.0.26",
     "faker": "5.5.3",
     "airbnb-prop-types": "2.16.0",
-    "left-pad": "1.3.0"
+    "left-pad": "1.1.0"
   },
   "comments": {
     "//": "a9 insecure components"
